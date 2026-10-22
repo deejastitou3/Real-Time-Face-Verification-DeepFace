@@ -41,4 +41,4 @@ The pipeline is divided into four modular stages:
 ## Author
 Khadija Stitou
 Engineering Student in Intelligent Embedded Systems & Telecommunications
-LinkedIn | GitHub
+LinkedIn : (https://www.linkedin.com/in/khadija-stitou-b42792293)
