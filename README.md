@@ -37,3 +37,7 @@ The pipeline is divided into four modular stages:
    ```bash
    git clone https://github.com/deejastitou3/Real-Time-Face-Verification-DeepFace.git
    cd Real-Time-Face-Verification-DeepFace
+
+## Author
+Khadija Stitou
+Engineering Student in Intelligent Embedded Systems & Telecommunications
